@@ -1,0 +1,16 @@
+.Pagination {
+  text-align: center;
+  font-size: 24px;
+}
+
+.Pagination-activePage {
+  border: 1px solid !important;
+}
+.Pagination .pageButton {
+  font-size: 16px;
+  border: 0px;
+  background-color: transparent;
+}
+.Pagination i {
+  font-size: 75%;
+}

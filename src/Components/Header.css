@@ -1,0 +1,18 @@
+.Header {
+  width: 100%;
+  margin-top: 10px;
+}
+.Header-text {
+  float: right;
+  font-size: 24px;
+  margin-top: 10px;
+}
+.Header-text-bold {
+  font-weight: bold;
+}
+.Header-text-lighter {
+  font-weight: lighter;
+}
+hr {
+  margin-top: 5px;
+}
